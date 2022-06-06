@@ -1,0 +1,4 @@
+- olha meu nome é Ana Claudia!
+- meu e-mail de contato é, ana.rodrigues.silva09@escola.pt.gov.br!
+- eu estou interessado a aprender novas linguagens!
+- eu estou apredendo a programadar recentemente e linguagens de Javascrip e Scratch.
